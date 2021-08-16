@@ -17,10 +17,10 @@
         },
         "CF_KV_NAMESPACE_ID": {
             "description": "The Cloudflare KV namespace ID.",
-            "value": "4d7b910f88a846329264bf31cc3f5db4"
+            "value": "7830b851-8e0e-4f6f-8245-081106a0bc49"
         }
     },
     "website": "http://heroku-xray.herokuapp.com",
-    "repository": "https://github.com/zhangsean/heroku-xray",
+    "repository": "https://github.com/ynsc133/heroku-xray",
     "stack": "container"
 }

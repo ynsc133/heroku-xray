@@ -9,7 +9,7 @@
         },
         "DOMAIN": {
             "description": "The Cloudflare worker domain or Heroku app domain used by end user.",
-            "value": "app-name.seanz.workers.dev"
+            "value": ".herokuapp.com"
         },
         "CF_KV_API_TOKEN": {
             "description": "The Cloudflare API token with Workers KV permission.",
